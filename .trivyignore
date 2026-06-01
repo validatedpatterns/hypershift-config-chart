@@ -1,6 +1,6 @@
 # Hypershift admin ClusterRole is intentionally privileged; suppress noisy RBAC policy checks.
-KSV-0041
-KSV-0045
-KSV-0046
-KSV-0049
-KSV-0056
+AVD-KSV-0041
+AVD-KSV-0045
+AVD-KSV-0046
+AVD-KSV-0049
+AVD-KSV-0056
