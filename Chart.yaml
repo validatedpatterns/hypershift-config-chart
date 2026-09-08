@@ -3,4 +3,4 @@ description: Helm Chart to configure the hypershift feature
 keywords:
   - pattern
 name: hypershift-config
-version: 0.0.2
+version: 0.0.3
